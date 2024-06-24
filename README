@@ -1,1 +1,7 @@
 To Enable 20s for the free drive just change out the hw_FOC_KING_core.h file for the next build of the vesc firmware.
+
+## Link
+https://github.com/vedderb/bldc/blob/master/README.md
+
+## License
+The software is released under the GNU General Public License version 3.0
