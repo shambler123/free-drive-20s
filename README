@@ -1,1 +1,1 @@
-
+To Enable 20s for the free drive just change out the hw_FOC_KING_core.h file for the next build of the vesc firmware.
